@@ -1,6 +1,3 @@
--New Year Resolutions Application 
-
-
 Project Overview:
 
 - JavaFX application that allows users to manage and track their New Year's resolutions.
