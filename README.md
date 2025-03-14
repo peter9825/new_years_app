@@ -1,5 +1,4 @@
-
-New Year Resolutions Application 
+-New Year Resolutions Application 
 
 
 Project Overview:
