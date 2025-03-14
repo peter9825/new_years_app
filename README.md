@@ -1,10 +1,14 @@
+
+New Year Resolutions Application 
+
+
 Project Overview:
 
 - JavaFX application that allows users to manage and track their New Year's resolutions.
   The app demonstrates a simple Model-View-Controller (MVC) pattern where the data model maintains the state of resolutions,
   and two views let users confirm resolutions and review a history of their actions.
 
-Features
+Features:
 
 - Manage Resolutions:
   The main window displays a predefined list of resolutions. Users can confirm a resolution or undo a confirmation.
