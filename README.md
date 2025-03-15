@@ -23,7 +23,7 @@
  - IDE (intellij, eclipse) or a text editor (VSCode) to run the project.
 
 
- Running the Application:
+# Running the Application
  - Clone or Import the Project into your preferred environment.
  - Have all dependencies (e.g., JavaFX libraries) correctly configured.
  - Execute the MainApp class to launch the application.
